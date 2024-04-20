@@ -1,0 +1,15 @@
+Las redes neuronales se separan en capas 
+cada capa puede tener una o mas neuronales
+cada red tiene al menos una capa de entrada
+y una capa de salida
+Capas intermedias llamadas capaz ocultas
+Las neurons se conectan por conexiones
+Cada conexion tiene un peso (valor numerico) que representa la importancia de la conexion entre neuronas
+Cada neurona tiene un sesgo y tiene un vlaor numerico
+Tenemos funcion de activacion tambien
+
+
+Categorizar arcitulos en base a fotografias Redes neuronales convolucionales
+En los problemas de regresion las salidas con un numero
+784 neuronas de entrada y 10 de salidas
+
